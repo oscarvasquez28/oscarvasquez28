@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/oscar.mysql" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/tremboy" target="_blank">
+  <a href="https://discord.com/invite/JgBq9RE9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/oscar-fabi%C3%A1n-v%C3%A1squez-soto-9036922b4/" target="_blank">
