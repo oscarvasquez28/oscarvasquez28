@@ -48,13 +48,6 @@
 
 ###
 
-<div align="center"> 
-    <a href="https://open.spotify.com/user/9p0vxh0k534nbvefkbh1nvp5t">   
-       <img src="https://novatorem-black-beta.vercel.app/api/spotify.py"  align="center" alt="Spotify Playing" width="500"  />
-    </a>
-</div>
-
-###
 
 <br clear="both">
 
