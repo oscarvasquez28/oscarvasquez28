@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋! I'm Oscar Vásquez</h1>
 
+
 <h3 align="center">I combine technical expertise with a strong sensitivity to design and user experience, allowing me to approach projects holistically — from application architecture to interface details.</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Oscar's GIF" />
+</div>
+
 
 ###
 
@@ -27,6 +33,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquez28&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquez28&layout=compact&theme=dracula" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/42/ae/97/42ae9769d9ffe8e0be9a0e503f5f1f72.gif" alt="Second GIF" height="200 />
 </div>
 
 ###
