@@ -4,7 +4,7 @@
 <h3 align="center">I combine technical expertise with a strong sensitivity to design and user experience, allowing me to approach projects holistically — from application architecture to interface details.</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Oscar's GIF" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%">
 </div>
 
 
