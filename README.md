@@ -4,9 +4,6 @@
 <h3 align="center">I combine technical expertise with a strong sensitivity to design and user experience, allowing me to approach projects holistically — from application architecture to interface details.</h3>
 
 <div align="center">
-  <img src="" width="100%">
-</div>
-<div align="center">
   <img src="https://raw.githubusercontent.com/oscarvasquez28/Snake-game-GitHub/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
