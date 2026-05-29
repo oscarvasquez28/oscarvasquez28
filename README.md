@@ -46,11 +46,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquez28&show_icons=true&theme=codeSTACKr" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquez28&layout=compact&theme=codeSTACKr" height="150" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/oscarvasquez28/Snake-game-GitHub/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 <div align="center">
