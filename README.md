@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=AI+Development+Coordinator;Full+Stack+Developer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 <h3 align="center">I combine technical expertise with a strong sensitivity to design and user experience, allowing me to approach projects holistically — from application architecture to interface details.</h3>
